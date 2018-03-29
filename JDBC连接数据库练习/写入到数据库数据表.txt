@@ -1,0 +1,5 @@
+name:a,sex:ÄÐ,age:21,size:16|
+name:b,sex:Å®,age:20,size:12|
+name:c,sex:ÄÐ,age:17,size:9|
+name:d,sex:Å®,age:19,size:10|
+name:e,sex:ÄÐ,age:18,size:8
